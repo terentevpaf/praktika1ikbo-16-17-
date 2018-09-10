@@ -1,6 +1,7 @@
 # praktika1ikbo-16-17-
 # Терентьев Павел Вадимович ИКБО-16-17
 
+<pre>
 public class Main
 {
 	public static void main(String[] args) {
@@ -10,7 +11,9 @@ public class Main
 		bl.infoBall();
 	}
 }
+</pre>
 
+<pre>
 public class Book {
     public String nameBook;
     public int size;
@@ -55,7 +58,9 @@ public class Book {
         System.out.println("Name: " + nameBook + ", size: "+size);
     }
 }
+</pre>
 
+<pre>
 public class Ball {
     public String nameBall;
     public String color;
@@ -90,3 +95,4 @@ public class Ball {
         System.out.println("Name: " + nameBall + ", color: " + color);
     }
 }
+</pre>
